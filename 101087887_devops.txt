@@ -10,3 +10,10 @@ Git records changes in commits, allowing developers to review the history of a p
 Each member uses a separate branch to work on their contribution.
 A pull request allows teammates to review changes before they are merged into main.
 Merge conflicts happen when Git cannot automatically combine changes, so the team must review and resolve them.
+
+Continuous Integration
+
+Continuous integration runs automated tasks when changes are pushed or proposed in a pull request.
+GitHub Actions can run these tasks and report whether they succeeded or failed.
+Our assignment uses a basic demonstration workflow with echo commands.
+This confirms that the workflow runs, but it does not test an application or deploy a website.

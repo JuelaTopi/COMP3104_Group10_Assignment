@@ -1,0 +1,5 @@
+COMP3104 DevOps
+
+DevOps connects software development and operations through collaboration and automation.
+In this course, we practise using Git and GitHub to track changes and work together.
+This assignment applies these ideas through individual branches, commits, pull requests, and continuous integration.

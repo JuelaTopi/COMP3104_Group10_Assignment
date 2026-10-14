@@ -9,3 +9,7 @@ Git is a version control system that helps developers track changes in their cod
 Pull Requests and Collaboration
 
 Pull requests are an important feature of GitHub that allow developers to propose changes before merging them into the main branch. Team members can review the changes, provide feedback, and suggest improvements. This process helps maintain code quality and reduces errors. Collaboration through pull requests also improves communication and allows multiple developers to contribute to the same project while keeping their work organized.
+
+Continuous Integration and GitHub Actions
+
+Continuous Integration (CI) is a DevOps practice where developers regularly combine their code changes into a shared repository. Automated workflows can check the code for errors and help identify problems early. GitHub Actions is a tool that allows developers to automate tasks such as building, testing, and validating projects. These workflows can run automatically when code is pushed or when a pull request is created. CI helps improve software quality and makes collaboration more efficient.

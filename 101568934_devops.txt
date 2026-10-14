@@ -5,3 +5,7 @@ DevOps is an approach that brings software development and IT operations togethe
 Git, Commits, and Branches
 
 Git is a version control system that helps developers track changes in their code and manage different versions of a project. A commit records a specific set of changes, making it easier to review project history or restore previous versions. Branches allow developers to work on new features or improvements independently without affecting the main project. GitHub provides an online platform where teams can store repositories and collaborate using Git.
+
+Pull Requests and Collaboration
+
+Pull requests are an important feature of GitHub that allow developers to propose changes before merging them into the main branch. Team members can review the changes, provide feedback, and suggest improvements. This process helps maintain code quality and reduces errors. Collaboration through pull requests also improves communication and allows multiple developers to contribute to the same project while keeping their work organized.

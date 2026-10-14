@@ -1,0 +1,19 @@
+name: Group 10 CI
+
+on: [push, pull_request]
+
+permissions:
+  contents: read
+
+jobs:
+  demonstrate-ci:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Confirm workflow execution
+        run: echo "Group 10 continuous integration workflow started."
+
+      - name: Describe project
+        run: echo "This repository demonstrates collaborative Git and GitHub workflows."
+
+      - name: Complete demonstration
+        run: echo "The demonstration steps completed successfully."

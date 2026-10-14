@@ -1,0 +1,18 @@
+Importance of DevOps in the Software Development Lifecycle
+
+The software development lifecycle includes planning, development, testing, deployment, and maintenance.
+DevOps helps connect these stages by encouraging teams to share responsibility and automate repetitive work.
+Frequent feedback helps teams identify problems earlier and improve their software.
+
+Feedback and Reliability
+
+During development, version control keeps a history of changes and supports collaboration.
+During testing, automated checks can identify issues before changes are merged.
+During deployment, automation can make release steps more consistent.
+During maintenance, monitoring and user feedback help teams identify improvements.
+
+Small Changes and Shared Responsibility
+
+Small, clear commits make changes easier to review and troubleshoot.
+Developers and operations teams communicate throughout the lifecycle instead of working separately.
+DevOps can reduce delays, but reliable software still depends on useful tests, careful review, and good communication.

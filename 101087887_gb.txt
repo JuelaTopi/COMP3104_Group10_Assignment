@@ -1,0 +1,9 @@
+George Brown College
+
+I am studying Computer Programming and Analysis at George Brown College.
+My coursework includes programming, databases, web development, and software development practices.
+Practical Learning
+
+Programming assignments give me opportunities to apply concepts by building and testing projects.
+Group assignments help me practise communication, divide responsibilities, and combine contributions.
+Using GitHub for this assignment helps me understand how a team manages changes in a shared repository.

@@ -1,3 +1,7 @@
 George Brown College Introduction
 
 George Brown College is a public college located in Toronto, Ontario, Canada. It offers a variety of programs that help students develop practical knowledge and career-ready skills. The college provides hands-on learning opportunities and prepares students for professional careers in different industries.
+
+My Program and Learning Experience
+
+I am currently studying Computer Programming and Analysis at George Brown College. Through this program, I am learning software development, programming languages, databases, web development, and mobile application development. I have gained practical experience using tools such as Visual Studio Code, GitHub, Java, JavaScript, and Android Studio. These skills are helping me prepare for a future career as a software developer.

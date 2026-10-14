@@ -1,0 +1,3 @@
+Introduction to DevOps
+
+DevOps is an approach that brings software development and IT operations together to improve collaboration and efficiency. The COMP3104 DevOps course introduces students to tools and practices used in modern software development, including Git, GitHub, version control, continuous integration, and automation. These skills help teams develop, test, and deliver software more reliably.

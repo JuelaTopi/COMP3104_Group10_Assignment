@@ -1,3 +1,7 @@
 Introduction to DevOps
 
 DevOps is an approach that brings software development and IT operations together to improve collaboration and efficiency. The COMP3104 DevOps course introduces students to tools and practices used in modern software development, including Git, GitHub, version control, continuous integration, and automation. These skills help teams develop, test, and deliver software more reliably.
+
+Git, Commits, and Branches
+
+Git is a version control system that helps developers track changes in their code and manage different versions of a project. A commit records a specific set of changes, making it easier to review project history or restore previous versions. Branches allow developers to work on new features or improvements independently without affecting the main project. GitHub provides an online platform where teams can store repositories and collaborate using Git.

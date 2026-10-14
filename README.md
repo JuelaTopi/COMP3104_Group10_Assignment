@@ -5,7 +5,7 @@ This project demonstrates collaborative Git and GitHub workflows for COMP3104 De
 
 ## Group Members
 - Leader: Juela Topi, 101087887, https://github.com/JuelaTopi
-- Almas Sultana: student ID and GitHub link to be added by Almas.
+- Almas Sultana: 101568934, https://github.com/almas1990
 - Arcadio Vega: student ID and GitHub link to be added by Arcadio.
 
 ## Setup Instructions

@@ -1,3 +1,7 @@
 Introduction to the Software Development Life Cycle (SDLC)
 
 The Software Development Life Cycle (SDLC) is a structured process used to develop and maintain software applications. It includes planning, requirements analysis, design, development, testing, deployment, and maintenance. Each stage helps developers build reliable software that meets user requirements. DevOps improves the SDLC by encouraging collaboration, automation, and continuous improvement.
+
+Testing and Early Feedback
+
+Testing is an important stage of the Software Development Life Cycle because it helps developers identify errors and ensure that software works as expected. Different testing methods, such as unit testing, integration testing, and system testing, help verify software quality. Early feedback allows developers to identify problems before they become more difficult and expensive to fix. DevOps encourages continuous testing and feedback throughout the development process to improve reliability and user satisfaction.

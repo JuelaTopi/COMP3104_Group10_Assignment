@@ -5,3 +5,11 @@ development (Dev) and IT operations (Ops). The goal is to build, test and
 release software faster and more reliably by working as one team instead of
 passing work over a wall. In this course we use tools like Git, GitHub and
 automated pipelines to practice that way of working.
+
+Git, Commits and Branches
+
+Git is a version control system that tracks changes to files over time. A commit
+is a saved snapshot of the project with a message that explains what changed.
+Small commits with clear messages make history easy to read and easy to undo.
+A branch is a separate line of work. Branches let each person build a change
+without breaking the main branch, and the work is merged back once it is ready.

@@ -5,3 +5,14 @@ College in Toronto, in the Computer Programming and Analysis program (T197).
 George Brown is a polytechnic college that focuses on hands-on, career-ready
 education. It works closely with industry, which is a big reason I chose it.
 I expect to graduate in April 2027.
+
+My Program and Learning Experience
+
+Before studying programming I spent about 15 years in professional kitchens,
+most recently as a Chef de Cuisine in Toronto. I am changing careers into
+software development. The program has taught me Java, databases, web
+development and how to work in teams. My classes are online, and I work evening
+shifts, so I have learned to manage my time carefully. I have made the Dean's
+List and I like building real projects, including small apps for my restaurant.
+Cooking taught me to work under pressure and communicate clearly, and those
+skills carry over to working on a development team.

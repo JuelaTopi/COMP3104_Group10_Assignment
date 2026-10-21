@@ -22,3 +22,13 @@ questions before anything is merged. PRs help catch mistakes, share knowledge
 and keep everyone aware of what is changing. Good collaboration means writing
 clear PR descriptions, reviewing each other's work respectfully and resolving
 merge conflicts together.
+
+Continuous Integration and GitHub Actions
+
+Continuous integration (CI) means changes are merged often and checked
+automatically each time. This finds problems early, while they are still small.
+GitHub Actions is GitHub's built-in automation tool. A workflow file in the
+repository tells GitHub to run steps, such as builds or checks, whenever
+something happens like a push or a pull request. The result shows up as green
+or red checks on the PR, so the team can see right away whether a change is safe
+to merge.

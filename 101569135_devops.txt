@@ -13,3 +13,12 @@ is a saved snapshot of the project with a message that explains what changed.
 Small commits with clear messages make history easy to read and easy to undo.
 A branch is a separate line of work. Branches let each person build a change
 without breaking the main branch, and the work is merged back once it is ready.
+
+Pull Requests and Collaboration
+
+A pull request (PR) is a request to merge one branch into another, usually into
+main. It gives teammates a place to review the changes, leave comments and ask
+questions before anything is merged. PRs help catch mistakes, share knowledge
+and keep everyone aware of what is changing. Good collaboration means writing
+clear PR descriptions, reviewing each other's work respectfully and resolving
+merge conflicts together.

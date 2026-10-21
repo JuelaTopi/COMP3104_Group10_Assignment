@@ -1,0 +1,7 @@
+DevOps Course - Introduction
+
+COMP3104 introduces DevOps, the set of practices that connects software
+development (Dev) and IT operations (Ops). The goal is to build, test and
+release software faster and more reliably by working as one team instead of
+passing work over a wall. In this course we use tools like Git, GitHub and
+automated pipelines to practice that way of working.

@@ -1,0 +1,8 @@
+Software Development Lifecycle (SDLC) - Introduction
+
+The software development lifecycle is the process teams follow to take an idea
+to working software. The usual stages are planning, requirements, design,
+implementation, testing, deployment and maintenance. Different teams organize
+these stages in different ways (waterfall, agile and so on), but the stages
+themselves stay mostly the same. A clear lifecycle keeps a team organized and
+helps catch problems before they get expensive.

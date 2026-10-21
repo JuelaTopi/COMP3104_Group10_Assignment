@@ -6,3 +6,12 @@ implementation, testing, deployment and maintenance. Different teams organize
 these stages in different ways (waterfall, agile and so on), but the stages
 themselves stay mostly the same. A clear lifecycle keeps a team organized and
 helps catch problems before they get expensive.
+
+Testing and Early Feedback
+
+Testing checks that software does what it should and helps find bugs before
+users do. It can happen at several levels, from small unit tests to full
+system tests. The earlier a problem is found, the cheaper it is to fix.
+Early feedback from teammates, reviewers and users keeps the project moving in
+the right direction and avoids building the wrong thing. Automated tests also
+make it safer to change code later.
